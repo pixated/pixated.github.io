@@ -1,0 +1,18 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Lanyon with Comments
+tagline:             'A Jekyll theme with Comments'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>, comments by <a href="https://www.github.com/wireddown/ghpages-ghcomments" target="_blank">@wireddown</a>.'
+url:                 http://pixated.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Joe Friedrichsen
+  url:               https://twitter.com/JoeFriedrichsen
